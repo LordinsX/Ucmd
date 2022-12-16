@@ -1,4 +1,4 @@
-# Ucmd
+# Usual CMD
  Slightly usual command-line console on C++
 
 Instructions:
